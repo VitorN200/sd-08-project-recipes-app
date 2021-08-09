@@ -5,10 +5,11 @@ Se trata de uma aplicação de gerencia, contendo comidas e bebidas diversas, e 
 
 Esse projeto foi realizado em parceria com outras pessoas estudantes: 
 
-(https://github.com/MEianelli)
-(https://github.com/Ludilly)
-(https://github.com/leandroLachini)
-(https://github.com/momentts)
+https://github.com/MEianelli
+https://github.com/Ludilly
+https://github.com/leandroLachini
+https://github.com/momentts
+
 
 ## Como iniciar a aplicação?
 
